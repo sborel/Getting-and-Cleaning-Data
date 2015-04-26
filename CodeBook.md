@@ -1,5 +1,5 @@
 ==================================================================
-Code book for R script called run_analysis.R
+## Code book for R script called run_analysis.R
 ==================================================================
 The data provided is split into muliple files.
 First, the data sets must be combined and named.
