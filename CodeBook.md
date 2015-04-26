@@ -1,6 +1,7 @@
 ==================================================================
 ## Code book for R script called run_analysis.R
 ==================================================================
+### Data set and analysis description
 The data provided is split into muliple files.
 First, the data sets must be combined and named.
 
@@ -26,18 +27,18 @@ each of the column in the group. Thus, the final tidy data set
 contains the mean of each of the 66 variables for each (activity,
 subject) group.
 
-See below for column name descriptors
+#### See below for column name descriptors
 
 * ActivityType
 
-a character string naming one of the 6 possible acitivites:
+a character string naming one of the 6 possible activities
 WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
 
 * subject
 
 a number (1-30) representing the subjects in the study
 
-EXPERIMENTAL VALUES (66 variables):
+##### EXPERIMENTAL VALUES (66 variables):
 
 * tBodyAccmeanX
 
